@@ -74,6 +74,7 @@ PRODUCT_PACKAGES += \
     MyVerizonServices \
     OBDM_Permissions \
     OemDmTrigger \
+    QtiTelephonyService \
     SprintDM \
     SprintHM \
     VerizonAuthDialog \
