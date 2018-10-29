@@ -39,6 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/taimen/proprietary/etc/permissions/privapp-permissions-google.xml:system/etc/permissions/privapp-permissions-google.xml \
     vendor/google/taimen/proprietary/etc/permissions/privapp-permissions-wahoo.xml:system/etc/permissions/privapp-permissions-wahoo.xml \
     vendor/google/taimen/proprietary/etc/permissions/vzw_mvs_permissions.xml:system/etc/permissions/vzw_mvs_permissions.xml \
+    vendor/google/taimen/proprietary/etc/init/android.hardware.light@2.0-service.rc:system/etc/init/android.hardware.light@2.0-service.rc \
     vendor/google/taimen/proprietary/lib/com.qualcomm.qti.imsrtpservice@1.0.so:system/lib/com.qualcomm.qti.imsrtpservice@1.0.so \
     vendor/google/taimen/proprietary/lib/lib-imsvideocodec.so:system/lib/lib-imsvideocodec.so \
     vendor/google/taimen/proprietary/lib/lib-imsvt.so:system/lib/lib-imsvt.so \
@@ -61,6 +62,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/taimen/proprietary/lib64/libimscamera_jni.so:system/lib64/libimscamera_jni.so \
     vendor/google/taimen/proprietary/lib64/libimsmedia_jni.so:system/lib64/libimsmedia_jni.so \
     vendor/google/taimen/proprietary/lib64/librcc.so:system/lib64/librcc.so \
+    vendor/google/taimen/proprietary/lib64/hw/android.hardware.light@2.0-impl.so:system/lib64/hw/android.hardware.light@2.0-impl.so \
     vendor/google/taimen/proprietary/priv-app/MyVerizonServices/lib/arm64/libmotricity.so:system/priv-app/MyVerizonServices/lib/arm64/libmotricity.so
 
 PRODUCT_PACKAGES += \
