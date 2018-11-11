@@ -105,4 +105,5 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne \
     embmslibrary \
     qcrilhook \
-    rcsimssettings
+    rcsimssettings \
+    SoundPicker
