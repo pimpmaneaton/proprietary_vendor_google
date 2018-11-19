@@ -67,7 +67,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     Tycho \
-    AmbientSensePrebuilt \
     EaselServicePrebuilt \
     VZWAPNLib \
     embms \
