@@ -92,7 +92,6 @@ PRODUCT_PACKAGES += \
     OemDmTrigger \
     QtiTelephonyService \
     Showcase \
-    SSRestartDetector \
     SprintDM \
     SprintHM \
     TimeService \
