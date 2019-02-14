@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/taimen/proprietary/etc/firmware/music_detector.descriptor:system/etc/firmware/music_detector.descriptor \
     vendor/google/taimen/proprietary/etc/firmware/music_detector.sound_model:system/etc/firmware/music_detector.sound_model \
     vendor/google/taimen/proprietary/etc/permissions/android.hardware.telephony.euicc.xml:system/etc/permissions/android.hardware.telephony.euicc.xml \
+    vendor/google/taimen/proprietary/etc/permissions/android.hardware.sensor.assist.xml:system/etc/permissions/android.hardware.sensor.assist.xml \
     vendor/google/taimen/proprietary/etc/permissions/com.customermobile.preload.vzw.xml:system/etc/permissions/com.customermobile.preload.vzw.xml \
     vendor/google/taimen/proprietary/etc/permissions/com.android.sdm.plugins.connmo.xml:system/etc/permissions/com.android.sdm.plugins.connmo.xml \
     vendor/google/taimen/proprietary/etc/permissions/com.android.sdm.plugins.sprintdm.xml:system/etc/permissions/com.android.sdm.plugins.sprintdm.xml \
@@ -44,6 +45,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/taimen/proprietary/lib/com.qualcomm.qti.imsrtpservice@1.0.so:system/lib/com.qualcomm.qti.imsrtpservice@1.0.so \
     vendor/google/taimen/proprietary/lib/lib-imsvideocodec.so:system/lib/lib-imsvideocodec.so \
     vendor/google/taimen/proprietary/lib/lib-imsvt.so:system/lib/lib-imsvt.so \
+    vendor/google/taimen/proprietary/lib/dsp/elmyra.so:system/lib/dsp/elmyra.so \
     vendor/google/taimen/proprietary/lib/lib-imsvtextutils.so:system/lib/lib-imsvtextutils.so \
     vendor/google/taimen/proprietary/lib/lib-imsvtutils.so:system/lib/lib-imsvtutils.so \
     vendor/google/taimen/proprietary/lib/libdiag_system.so:system/lib/libdiag_system.so \
